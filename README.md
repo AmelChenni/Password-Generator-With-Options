@@ -1,6 +1,6 @@
 # 🔐 Password Generator With Options  
 
-🌐 **Live Demo:** [View Project](https://amelchenni.github.io/password-generator-with-options/)  
+🌐 **Live Demo:** [View Project](https://amelchenni.github.io/Password-Generator-With-Options/)  
 
 ---
 
@@ -39,7 +39,7 @@ This project demonstrates a functional password generator with dynamic options.
 ---
 
 ## 📷 Preview  
-![Preview Screenshot](password-generator.png)  
+![Preview Screenshot](ScreenShot.png)  
 
 ---
 
